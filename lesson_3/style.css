@@ -1,0 +1,41 @@
+:root {
+    font-family: 'Roboto', sans-serif;
+}
+
+.card {
+    background-color: #fff;
+    border-radius: 4px;
+    box-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+    margin-bottom: 2rem;
+}
+
+.calendar {
+    background-color: #fe6d3f;
+    text-align: center;
+}
+.calendar span {
+    color: #fff;
+}
+
+.calendar-header {
+    background-color: #ef5321;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.calendar-body {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.calendar-year {
+    font-size: 16px;
+}
+
+.calendar-day {
+    font-size: 40px;
+}
+
+.card-body {
+    padding: 10px;
+}
